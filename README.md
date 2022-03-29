@@ -92,3 +92,9 @@ The Local Clustering Coefficient algorithm computes the local clustering coeffic
 tg_lcc(STRING v_type, STRING e_type,INT top_k=100,
 BOOL print_accum = True, STRING result_attr = "",
 STRING file_path = "", BOOL display_edges = FALSE)
+## Similarity
+JACCARD SIMILARITY
+
+COSINE SIMILARITY
+
+GRAPH BASED VARIATIONS
